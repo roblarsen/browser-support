@@ -49,3 +49,11 @@ Source: http://help.outlook.com/140/bb899685.aspx
 * Safari `4 + up`
 
 Source: http://37signals.com/svn/posts/3097-developing-for-old-browsers-is-almost-a-thing-of-the-past
+
+### Github
+* IE `9 + up`
+* Firefox `current`
+* Safari `current`
+* Chrome `current`
+
+Source: https://help.github.com/articles/supported-browsers
