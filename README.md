@@ -41,3 +41,11 @@ Source: http://office.microsoft.com/en-us/help/supported-browsers-HP001029475.as
 * Safari `3.1 + up`
 
 Source: http://help.outlook.com/140/bb899685.aspx
+
+### Basecamp
+* IE `9 + up`
+* Firefox `4 + up`
+* Chrome `7 + up`
+* Safari `4 + up`
+
+Source: http://37signals.com/svn/posts/3097-developing-for-old-browsers-is-almost-a-thing-of-the-past
